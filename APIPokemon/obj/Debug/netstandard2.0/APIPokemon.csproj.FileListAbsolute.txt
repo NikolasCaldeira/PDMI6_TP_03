@@ -1,0 +1,16 @@
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\bin\Debug\netstandard2.0\APIPokemon.deps.json
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\bin\Debug\netstandard2.0\APIPokemon.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\bin\Debug\netstandard2.0\ref\APIPokemon.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\bin\Debug\netstandard2.0\APIPokemon.pdb
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\APIPokemon.csproj.AssemblyReference.cache
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\APIPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\Page.xaml.g.cs
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\APIPokemon.AssemblyInfoInputs.cache
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\APIPokemon.AssemblyInfo.cs
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\APIPokemon.csproj.CoreCompileInputs.cache
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\APIPokemon.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\ref\APIPokemon.dll
+C:\Users\Nikolas Caldeira\Documents\xamarim\APIPokemon\APIPokemon\obj\Debug\netstandard2.0\APIPokemon.pdb
